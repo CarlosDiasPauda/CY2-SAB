@@ -1,0 +1,13 @@
+#txtazul {
+    color: rgb(0, 0, 255);
+}
+
+#txtvermelho {
+    color: rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img[src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmqSVhfHvN_lX7MKccW9ltx2Xf2FO_jpVzfA&s"]{
+    border-radius: 50%;
+    size: 200px;
+}
