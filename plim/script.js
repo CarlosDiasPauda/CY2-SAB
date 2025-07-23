@@ -21,4 +21,8 @@ document.getElementById("countbtn").addEventListener("click", () => {
         output.textContent = `voce clicou ${clickCount} vezes e voce virou o LordClicker 💀`;
         img.hidden = false;
     }
+    if(clickCount >= 40){
+        output.textContent = `voce clicou ${clickCount} vezes e voce virou o Cara Fodido 💀`;
+        img.hidden = true;
+    }
 });
